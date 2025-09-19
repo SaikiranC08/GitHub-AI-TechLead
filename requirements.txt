@@ -1,0 +1,8 @@
+crewai
+crewai[tools]
+python-dotenv
+google-generativeai
+openai
+PyGithub
+Flask
+pytest
